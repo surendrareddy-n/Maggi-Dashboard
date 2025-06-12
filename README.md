@@ -22,13 +22,18 @@ Used POWER BI to write queries and fetch the needed data.
 
 Used Power BI to create visuals that made the insights easy to understand and engaging.
 
-##Presentation Design:
+## Presentation Design:
 
 Created a clear and professional dashboard in POWER BI to share the insights.
 
 ## Actionable Insights:
 
-Provided actionable insights and recommendations to assist the management team in making informed decisions.
+- Revenue showed a significant drop in 2019, despite previously growing year-on-year. This suggests a possible market disruption, regulatory ban, or supply chain issue during that year.
+- "Healthier" and "Classic & Regular" categories dominate total sales volume, jointly contributing over 66% of total demand, indicating these are the most preferred consumer segments.
+- While "Classic" and "Healthier" variants drive high volume sales each year (stacked bars), the revenue line trend remains relatively flat, suggesting pricing pressure or a shift to lower-margin variants.
+- There is a steep drop-off in volume from the top-selling variant to others, indicating heavy reliance on a few SKUs. Optimizing or promoting lower-ranked variants can reduce risk.
+- Spain and Ukraine consistently lead in sales volume across years, showing strong market penetration in those countries, while other regions underperform, indicating growth potential.
+- Despite consistent or growing sales volume (columns), the average price (line) trend shows fluctuation — possibly due to promotions, pricing strategy shifts, or inflationary factors.
 
 ## Outcome
 
